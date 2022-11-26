@@ -3,7 +3,9 @@ Deploy java application
 deploy pythons apps
 deploy in the dev env
 deployment 5 master
-deploy to staging
+deploy to staging env
+echo good job.
+tested and accepted
 You 
 Me 
 Myself
