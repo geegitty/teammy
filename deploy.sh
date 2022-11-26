@@ -2,3 +2,5 @@
 You 
 Me 
 Myself
+Git
+Amz
